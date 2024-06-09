@@ -35,11 +35,11 @@ train:
     loss_type: l1_wav
     optimizer:
         optimizer_type: AdamW
-        learning_rate: 1e-6
+        learning_rate: 1e-4
         lr_lambda_type: constant_warm_up    # "constant_warm_up" | "linear_warm_up"
-        warm_up_steps: 1
+        warm_up_steps: 1000
         reduce_lr_steps: 1000000
-    batch_size_per_device: 4
+    batch_size_per_device: 32
     precision: 32
     steps_per_epoch: 1000  # Every 10000 steps is called an epoch
     evaluate_step_frequency: 20000     # Evaluate every #evaluate_step_frequency steps
