@@ -16,10 +16,7 @@
     {"index": 174, "mid": "/m/07brj"  , "display_name": "Tambourine"         },
     {"index": 175, "mid": "/m/05r5wn" , "display_name": "Rattle (instrument)"},
     {"index": 176, "mid": "/m/0xzly"  , "display_name": "Maraca"             },
-    {"index": 177, "mid": "/m/0mbct"  , "display_name": "Gong"               },
-    {"index":  61, "mid": "/m/0k65p"  , "display_name": "Hands"              },
-    {"index":  62, "mid": "/m/025_jnm", "display_name": "Finger snapping"    },
-    {"index":  63, "mid": "/m/0l15bq" , "display_name": "Clapping"           }
+    {"index": 177, "mid": "/m/0mbct"  , "display_name": "Gong"               }
   ],
   "bass": [
     {"index": 142, "mid": "/m/018vs", "display_name": "Bass guitar"},
@@ -137,8 +134,24 @@
     {"index": 69, "mid": "/m/03qtwd", "display_name": "Crowd"},
     {"index": 70, "mid": "/m/07qfr4h", "display_name": "Hubbub, speech noise, speech babble"},
     {"index": 71, "mid": "/t/dd00013", "display_name": "Children playing"},
+    {"index": 364, "mid": "/m/04brg2", "display_name": "Dishes, pots, and pans"},
+    {"index": 365, "mid": "/m/023pjk", "display_name": "Cutlery, silverware"},
+    {"index": 442, "mid": "/m/07q7njn", "display_name": "Chink, clink"},
+  ],
+  "timekeeping_sounds": [
+    {"index":  61, "mid": "/m/0k65p"  , "display_name": "Hands"              },
+    {"index":  62, "mid": "/m/025_jnm", "display_name": "Finger snapping"    },
+    {"index":  63, "mid": "/m/0l15bq" , "display_name": "Clapping"           },
+    {"index":  360, "mid": "/m/07qcpgn" , "display_name": "Tap"             },
+    {"index":  407, "mid": "/m/07qjznt" , "display_name": "Tick"             },
+    {"index":  408, "mid": "/m/07qjznl" , "display_name": "Tick-tock"        },
+    {"index":  491, "mid": "/m/07qc9xj" , "display_name": "Clicking"         },
+    {"index":  505, "mid": "/m/07pt_g0" , "display_name": "Pulse"            },
+  ],
+  "environmental_noise": [
     {"index": 513, "mid": "/m/096m7z", "display_name": "Noise"},
     {"index": 514, "mid": "/m/06_y0by", "display_name": "Environmental noise"},
+    {"index": 516, "mid": "/m/06xkwv", "display_name": "Mains hum"},
     {"index": 520, "mid": "/m/0chx_", "display_name": "White noise"},
     {"index": 521, "mid": "/m/0cj0r", "display_name": "Pink noise"}
   ]
