@@ -58,7 +58,7 @@
     {"index": 192, "mid": "/m/0d8_n"  , "display_name": "Pizzicato"              },
     {"index": 193, "mid": "/m/01xqw"  , "display_name": "Cello"                  }
   ],
-  "other_instruments": [
+  "other_instrument": [
     {"index": 152, "mid": "/m/05148p4", "display_name": "Keyboard (musical)"},
     {"index": 155, "mid": "/m/013y1f", "display_name": "Organ"},
     {"index": 156, "mid": "/m/03xq_f", "display_name": "Electronic organ"},
@@ -95,7 +95,7 @@
       "display_name": "Scratching (performance technique)"
     }
   ],
-  "voice": [
+  "vocals": [
     {"index":  7, "mid": "/m/0brhx"  , "display_name": "Speech synthesizer"},
     {"index": 27, "mid": "/m/015lz1" , "display_name": "Singing"           },
     {"index": 28, "mid": "/m/0l14jd" , "display_name": "Choir"             },
@@ -138,7 +138,7 @@
     {"index": 365, "mid": "/m/023pjk", "display_name": "Cutlery, silverware"},
     {"index": 442, "mid": "/m/07q7njn", "display_name": "Chink, clink"}
   ],
-  "timekeeping_sounds": [
+  "timekeeping_sound": [
     {"index":  61, "mid": "/m/0k65p"  , "display_name": "Hands"              },
     {"index":  62, "mid": "/m/025_jnm", "display_name": "Finger snapping"    },
     {"index":  63, "mid": "/m/0l15bq" , "display_name": "Clapping"           },
